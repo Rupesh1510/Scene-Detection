@@ -1,0 +1,2 @@
+# Scene-Detection
+In this project  a novel outdoor scene detection technique for visually impaired people has been proposed. for detection of traffic jam scenes and kids playing scenes. SIFT and K-means clustering machine learning algorithms have been used along with the following classifiers with accuracy- Decision Tree (84%), KNN (84.75%), Random Forest (88.58%), SVC linear kernel (85.08%), SVC polynomial kernel (85.33%), SVC radial basis function kernel (87.08%), Linear Regression (85.08%).
